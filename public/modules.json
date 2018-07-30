@@ -1,0 +1,242 @@
+[
+  {
+    "name": "pos-2-section-no-link",
+    "desc": "POS 2 Section - No Link",
+    "fieldsets": [
+      [
+        {
+          "name": "copy1",
+          "tag": "input",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "name": "colour1",
+          "tag": "select",
+          "options": ["Black","Red","Beige"],
+          "values": ["color-black","color-red","color-beige"],
+          "default": "color-black"
+        },
+        {
+          "name": "uppercase",
+          "tag": "checkbox",
+          "checked": true,
+          "default": "uppercase",
+          "copy": "Uppercase"
+        }
+      ],
+      [
+        {
+          "name": "copy2",
+          "tag": "input",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "name": "colour2",
+          "tag": "select",
+          "options": ["Black","Red","Beige"],
+          "values": ["color-black","color-red","color-beige"],
+          "default": "color-black"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "pos-2-section",
+    "desc": "POS 2 Section",
+    "fieldsets": [
+      [
+        {
+          "name": "copy1",
+          "tag": "input",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "name": "colour1",
+          "tag": "select",
+          "options": ["Black","Red","Beige"],
+          "values": ["color-black","color-red","color-beige"],
+          "default": "color-black"
+        },
+        {
+          "name": "uppercase",
+          "tag": "checkbox",
+          "checked": true,
+          "default": "uppercase",
+          "copy": "Uppercase"
+        }
+      ],
+      [
+        {
+          "name": "link",
+          "tag": "input",
+          "type": "text",
+          "default": "/"
+        },
+        {
+          "name": "copy2",
+          "tag": "input",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "name": "target",
+          "tag": "checkbox",
+          "checked": false,
+          "default": "target='_blank'",
+          "copy": "Open New Window"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "pos-3-section",
+    "desc": "POS 3 Section",
+    "fieldsets": [
+      [
+        {
+          "name": "copy1",
+          "tag": "input",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "name": "colour1",
+          "tag": "select",
+          "options": ["Black","Red","Beige"],
+          "values": ["color-black","color-red","color-beige"],
+          "default": "color-black"
+        },
+        {
+          "name": "uppercase",
+          "tag": "checkbox",
+          "checked": true,
+          "default": "uppercase",
+          "copy": "Uppercase"
+        }
+      ],
+      [
+        {
+          "name": "copy2",
+          "tag": "input",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "name": "colour2",
+          "tag": "select",
+          "options": ["Black","Red","Beige"],
+          "values": ["color-black","color-red","color-beige"],
+          "default": "color-black"
+        }
+      ],
+      [
+        {
+          "name": "link",
+          "tag": "input",
+          "type": "text",
+          "default": "/"
+        },
+        {
+          "name": "copy3",
+          "tag": "input",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "name": "colour3",
+          "tag": "select",
+          "options": ["Black","Red","Beige"],
+          "values": ["color-black","color-red","color-beige"],
+          "default": "color-black"
+        },
+        {
+          "name": "target",
+          "tag": "checkbox",
+          "checked": false,
+          "default": "target='_blank'",
+          "copy": "Open New Window"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "pos-3-promo",
+    "desc": "POS 3 Promo",
+    "fieldsets": [
+      [
+        {
+          "name": "copy1",
+          "tag": "input",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "name": "colour1",
+          "tag": "select",
+          "options": ["Black","Red","Beige"],
+          "values": ["color-black","color-red","color-beige"],
+          "default": "color-black"
+        },
+        {
+          "name": "uppercase",
+          "tag": "checkbox",
+          "checked": true,
+          "default": "uppercase",
+          "copy": "Uppercase"
+        }
+      ],
+      [
+        {
+          "name": "copy2",
+          "tag": "input",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "name": "colour2",
+          "tag": "select",
+          "options": ["Black","Red","Beige"],
+          "values": ["color-black","color-red","color-beige"],
+          "default": "color-black"
+        },
+        {
+          "name": "code",
+          "tag": "input",
+          "type": "text",
+          "default": ""
+        }
+      ],
+      [
+        {
+          "name": "link",
+          "tag": "input",
+          "type": "text",
+          "default": "/"
+        },
+        {
+          "name": "copy3",
+          "tag": "input",
+          "type": "text",
+          "default": ""
+        },
+        {
+          "name": "colour3",
+          "tag": "select",
+          "options": ["Black","Red","Beige"],
+          "values": ["color-black","color-red","color-beige"],
+          "default": "color-black"
+        },
+        {
+          "name": "target",
+          "tag": "checkbox",
+          "checked": false,
+          "default": "target='_blank'",
+          "copy": "Open New Window"
+        }
+      ]
+    ]
+  }
+]
